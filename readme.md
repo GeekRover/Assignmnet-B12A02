@@ -1,2 +1,2 @@
 First Mobile first Aproach Tailwind project.<br>
-live link: will be given once deployed 
+live link: https://geekrover.github.io/Assignmnet-B12A02/
